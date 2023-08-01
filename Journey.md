@@ -27,3 +27,9 @@
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+**Day 6**:
+* [15. 3Sum](https://leetcode.com/problems/3sum/)
+* [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+* [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+* [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
