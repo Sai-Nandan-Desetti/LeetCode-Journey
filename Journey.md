@@ -22,3 +22,8 @@
 * [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
 * [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)
 * [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
+
+**Day 5**:
+* [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+* [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+* [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
