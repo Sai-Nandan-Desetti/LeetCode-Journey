@@ -8,3 +8,10 @@
 * [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 * [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+
+**Day 3**:
+* [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+* [15. 3Sum](https://leetcode.com/problems/3sum/)
+* [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+* [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+* [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)
