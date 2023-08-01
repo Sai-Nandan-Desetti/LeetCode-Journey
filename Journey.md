@@ -3,3 +3,8 @@
 * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+
+**Day 2**:
+* [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+* [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
+* [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
