@@ -15,3 +15,10 @@
 * [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 * [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 * [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)
+
+**Day 4**:
+* [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+* [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+* [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
+* [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)
+* [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
