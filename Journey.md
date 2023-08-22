@@ -39,3 +39,12 @@
 * [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 * [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 * [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+
+**Day 8**:
+* [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)
+* [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+* [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+* [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+* [136. Single Number](https://leetcode.com/problems/single-number/)
+* [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+* [2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)
