@@ -33,3 +33,9 @@
 * [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 * [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 * [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+
+**Day 7**:
+* [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+* [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+* [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
+* [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
