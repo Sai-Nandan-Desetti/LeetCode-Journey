@@ -48,3 +48,12 @@
 * [136. Single Number](https://leetcode.com/problems/single-number/)
 * [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 * [2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)
+
+**Day 9**:
+* [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+* [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+* [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
+* [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+* [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+* [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)
+* [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
