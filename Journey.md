@@ -57,3 +57,9 @@
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 * [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)
 * [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+
+**Day 10**:
+* [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
+* [706. Design HashMap](https://leetcode.com/problems/design-hashmap/)
+* [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+* [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
