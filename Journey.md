@@ -73,3 +73,7 @@
 * [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 * [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 * [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+
+**Day 12**:
+* [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+* []()
