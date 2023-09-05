@@ -3,7 +3,7 @@
 * The assignment operator never creates new *values*, and it never *copies* data. It simply facilitates creating a new reference for the value.
     * "Reference", here, simply means a name used to *refer* to something. Don't start analysing it from a C++ perspective.
     * Maybe a better word is "binding".
-* There's a smart (read crazy) way to create an exception to the above generalization. Read [here](https://gist.github.com/jamalex/5997735).
+* There's a smart (read crazy) exception to the above generalization. Read [here](https://gist.github.com/jamalex/5997735).
 * Further Reading:
     * [Facts and myths about Python names and values](https://nedbatchelder.com/text/names.html)
 
