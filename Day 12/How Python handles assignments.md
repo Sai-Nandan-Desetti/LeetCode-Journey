@@ -22,5 +22,3 @@ A deep copy constructs a new compound object and then, recursively, inserts copi
 
 * Further Reading:
     * Python docs: [copy](https://docs.python.org/3/library/copy.html) module.
-
-![Shallow copy vs Deep copy (Generated using [pythontutor](https://pythontutor.com/render.html#mode=display))](Shallow copy vs Deep copy.png)
