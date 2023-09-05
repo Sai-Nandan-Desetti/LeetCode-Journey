@@ -76,5 +76,5 @@
 
 **Day 12**:
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
-* [Assignment and Copy](https://github.com/Sai-Nandan-Desetti/LeetCode-Journey/blob/main/Day%2012/How%20Python%20handles%20assignments.md)
-* [Identity and Equality]()
+* [Assignment and Copy](./Day%2012/How%20Python%20handles%20assignments.md)
+* [Identity and Equality](./Day%2012/Identity%20and%20Equality.md)
