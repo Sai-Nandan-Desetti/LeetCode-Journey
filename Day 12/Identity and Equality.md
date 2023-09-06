@@ -17,7 +17,7 @@
     * `__eq__()`:
         * When you execute `a == b`, actually `a.__eq__(b)` is called.
         * Now, it so happens that the default behaviour of `__eq__()` is (see [here](https://stackoverflow.com/a/57900009))...
-        ```
+        ```py
         def __eq__(self, other):
             return self is other
         ```
