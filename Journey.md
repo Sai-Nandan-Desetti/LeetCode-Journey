@@ -80,3 +80,6 @@
 * [Identity and Equality](./Day%2012/Identity%20and%20Equality.md)
 * [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 * [202. Happy Number](https://leetcode.com/problems/happy-number/)
+
+**Day 13**:
+* [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
