@@ -83,3 +83,8 @@
 
 **Day 13**:
 * [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
+* [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+* [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+* [143. Reorder List](https://leetcode.com/problems/reorder-list/)
+* [2487. Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)
+* [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
